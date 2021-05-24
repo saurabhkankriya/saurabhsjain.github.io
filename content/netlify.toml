@@ -1,0 +1,5 @@
+[build]
+publish = "newblog/public/"
+command = "hugo"
+
+HUGO_VERSION = "0.83.1"
