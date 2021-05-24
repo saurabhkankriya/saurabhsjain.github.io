@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Team SPOT Award
+  image: /images/achievements/CFISpot.jpg
+  summary: The efforts and timely delivery made by our team was acknowledged by the Client and we were awarded a SPOT prize for the CFI project. The client bagged two customers soon..
+- title: Learning Champion SPOT Award
+  image: /images/achievements/learning_champ.png
+  summary: '"On behalf of the SOP IT APD Mangement, I (my Manager) would like to extend our appreciation for your diligence, self-motivation as well as dedication to go the extra mile in order to achieve the best possible results. We know the amount of effort that you put into learning technologies that are cohesive to organizational and your professional growth and we want to assure you that your efforts are recognized"' 
+
+

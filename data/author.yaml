@@ -1,0 +1,17 @@
+# some information about you
+name: "Saurabh Jain"
+nickname: "Saurabh"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+#image: "images/dp.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  Message: Reach out on Twitter/ LinkedIn
+  #email: "johndoe@example.com"
+  #phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a Data Scientist
+  - I love python programming
+  - I love working on fun projects

@@ -1,0 +1,60 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Scientist
+# your company information
+company:
+  name: Siemens Technology and Services
+  url: "https://www.siemens.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I have 6 years of working experience. I see technologies and tools as a means to achieve business goals and not an end in itself. I believe in continous learning and improvement.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/saurabhsjain"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/saurabhkankriya"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/3187537/saurabh-jain"
+- name: "LinkedIn"
+  icon: "fab fa-linkedin-in"
+  url: "https://www.linkedin.com/in/saurabhsjain/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 85
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Work
+  percentage: 85
+  color: orange
+- name: Fast Learner
+  percentage: 85
+  color: "#00FFFF"
+- name: Problem Solving
+  percentage: 85
+  color: green

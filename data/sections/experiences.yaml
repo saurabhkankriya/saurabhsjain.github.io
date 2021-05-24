@@ -1,0 +1,43 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Siemens Technology and Services
+    url: "https://www.siemens.com"
+    location: Pune
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Data Scientist, RPA Vice-Service Owner
+    start: Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Co-lead Intelligent Process Automation As A Service (IPAaaS)
+    - Day-today activities involves direct customer interaction and consultation.
+    - Develop machine learning models for business tasks.
+    - Train non-technical users to use no-code automl tools
+
+- company:
+    name: Nitor Infotech Pvt. Ltd
+    url: "https://www.nitorinfotech.com/"
+    location: Pune
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Senior Software Engineer
+    start: April 2015
+    end: Nov 2019
+    responsibilities:
+    - Worked with Senior Data Scientist on business use cases.
+    - Data Engineering
+    - Reporting 

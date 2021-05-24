@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Tech Stack
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/python.png"
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  
+
+- name: Cloud Computing
+  logo: "/images/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Git
+  logo: "/images/git.png"
+  summary: "Experienced with git-based environment. Mostly use, Github. Also, have experience in working with Gitlab."
+
+- name: R
+  logo: "/images/r.png"
+  summary: "Primary tool for doing Data Analysis and Visualization."
+
+- name: Machine Learning
+  logo: "/images/scikit.png"
+  summary: "Standard tool for developing most of the Machine Learning applications."
+
+- name: Deep Learning
+  logo: "/images/deeplearning.jpeg"
+  summary: "Comfortable in using Pytorch and Tensorflow/ Keras for developing deep learning applications."
+
+- name: Docker
+  logo: "/images/docker.png"
+  summary: "Writing applications in dockerized containers so that sharing and deployment becomes easy"
+
+- name: UiPath
+  logo: "/images/uipath.png"
+  summary: "Worked on couple of RPA projects that involved use UiPath. Developed and orchestrated the project workflow"
