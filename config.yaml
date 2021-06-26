@@ -18,7 +18,7 @@ googleAnalytics: G-9BEDKMRMC3
 markup:
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 5
     ordered: false
 
 # At least HTML and JSON are required for the main HTML content and

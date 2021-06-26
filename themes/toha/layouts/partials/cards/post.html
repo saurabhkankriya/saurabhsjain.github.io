@@ -1,9 +1,10 @@
 <div class="post-card">
   <a href="{{ .RelPermalink | relLangURL }}" class="post-card-link">
     <div class="card">
-      <div class="card-head">
+      <!--The following section shows/ hide image of the post in Posts-->
+      <!--div class="card-head">
         <img class="card-img-top" src='{{ partial "helpers/get-hero.html" . }}' alt="Hero Image">
-      </div>
+      </div-->
       <div class="card-body">
         <h5 class="card-title">{{ .Title }}</h5>
         <p class="card-text post-summary">{{ .Summary }}</p>

@@ -1,6 +1,6 @@
 ---
-hero: /images/background/sunrise.jpg
+#hero: /images/background/sunrise.jpg
 author:
-    name: Md. Emruz Hossain
-    image: /images/profile-image.jpg
+    name: Saurabh Jain
+    #image: /images/profile-image.jpg
 ---

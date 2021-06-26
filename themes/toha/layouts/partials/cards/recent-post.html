@@ -1,11 +1,12 @@
 <div class="col-lg-4 col-md-6 pt-2 post-card">
   <a href="{{ .RelPermalink }}" title="{{ .Title }}" class="post-card-link">
     <div class="card">
-      <div class="card-head">
+      <!--The below snippet shows/ hides image on the recent post in the Home page-->
+      <!--div class="card-head">
         <img class="card-img-top" src='{{ partial "helpers/get-hero.html" . }}'
           alt="Card image cap"
         />
-      </div>
+      </div-->
       <div class="card-body">
         <h5 class="card-title">{{ .Title }}</h5>
         <p class="card-text post-summary"> {{ .Summary }}</p>
