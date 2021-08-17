@@ -2,8 +2,8 @@
 section:
   name: Tech Stack
   id: skills
-  enable: false
-  weight: 2
+  enable: True
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -38,8 +38,8 @@ skills:
 
 - name: Docker
   logo: "/images/docker.png"
-  summary: "Writing applications in dockerized containers so that sharing and deployment becomes easy"
+  summary: "Writing applications in dockerized containers so that sharing and deployment becomes easy."
 
 - name: UiPath
   logo: "/images/uipath.png"
-  summary: "Worked on couple of RPA projects that involved use UiPath. Developed and orchestrated the project workflow"
+  summary: "Worked on couple of RPA projects that involved UiPath. Developed and orchestrated the project workflow."
